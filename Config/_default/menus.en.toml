@@ -37,6 +37,12 @@ name = "Topics"
 weight = 30
 
 [[main]]
+name = "Data Stories"
+parent = "Topics"
+pageRef = "Data Stories"
+weight = 30
+
+[[main]]
 name = "Agile"
 parent = "Topics"
 pageRef = "Agile"
@@ -48,7 +54,7 @@ pageRef = "Blogs"
 weight = 40
 
 [[main]]
-name = "Product Management"
+name = "Project & Product Management"
 parent = "Topics"
 pageRef = "Product Management"
 weight = 30
