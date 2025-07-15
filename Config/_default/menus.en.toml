@@ -34,7 +34,6 @@ weight = 20
 
 [[main]]
 name = "Topics"
-pageRef = "Topics"
 weight = 30
 
 [[main]]
