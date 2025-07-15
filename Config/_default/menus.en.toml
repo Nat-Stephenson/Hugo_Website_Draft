@@ -21,14 +21,14 @@ weight = 20
 
 [[main]]
 name = "Active Learning"
-pageRef = "posts"
+pageRef = "Posts"
 parent = "Resources"
 weight = 20
 
 [[main]]
 name = "Communities"
 parent = "Resources"
-pageRef = "posts"
+pageRef = "Library"
 weight = 20
 
 # [[subnavigation]]
@@ -44,7 +44,7 @@ weight = 20
 
 [[main]]
 name = "My Blog"
-pageRef = "posts"
+pageRef = "Blogs"
 weight = 20
 
 #[[main]]
