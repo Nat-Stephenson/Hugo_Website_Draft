@@ -1,30 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nat&#39;s Rabbit Hole</title>
+    <title>But First... Introductions on Nat&#39;s Rabbit Hole</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Nat&#39;s Rabbit Hole</description>
+    <description>Recent content in But First... Introductions on Nat&#39;s Rabbit Hole</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Tue, 15 Jul 2025 18:34:56 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Jul 2025 21:49:20 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Where to Start...</title>
-      <link>http://localhost:1313/blogs/second/</link>
+      <link>http://localhost:1313/blogs/first/</link>
       <pubDate>Tue, 15 Jul 2025 11:36:08 +0100</pubDate>
       
-      <guid>http://localhost:1313/blogs/second/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>But First... Introductions</title>
-      <link>http://localhost:1313/blogs/intro/</link>
-      <pubDate>Mon, 14 Jul 2025 21:49:20 +0100</pubDate>
-      
-      <guid>http://localhost:1313/blogs/intro/</guid>
+      <guid>http://localhost:1313/blogs/first/</guid>
       <description></description>
       
     </item>
