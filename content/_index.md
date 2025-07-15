@@ -6,7 +6,7 @@ title = 'But First... Introductions'
 
 ### Hello, and welcome to my little corner of madness and experimentation.
 
-**My name is Nat, curiousity absolutely has gotten the better of me, so here I am!**
+**My name is Nat, curiousity absolutely has gotten the better of me, so here I am building my own little space in Hugo**
 
 **This will mean that I will not know what I am actually achieving alot of the time, I will get it wrong most of the time, but I know that this will be something that will bring me happiness in the long term. I am also 100% certain that I will be increasing my consumption of chocolate over the next couple of months as I explore and experience the AHHHH!, Ohhhhhhh, and YAY! moments of learning a new skill.**
 
