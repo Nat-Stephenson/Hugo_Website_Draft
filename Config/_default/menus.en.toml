@@ -38,20 +38,22 @@ pageRef = "Topics"
 weight = 30
 
 [[main]]
-# name = "GitHub"
-# pre = "github"
-# url = "https://github.com/Nat-Stephenson"
-# weight = 30
+name = "Agile"
+parent = "Topics"
+pageRef = "Agile"
+weight = 30
 
 [[main]]
 name = "My Blog"
 pageRef = "Blogs"
 weight = 40
 
-#[[main]]
-#  name = "Tags"
-#  pageRef = "tags"
-#  weight = 30
+[[main]]
+name = "Product Management"
+parent = "Topics"
+pageRef = "Product Management"
+weight = 30
+
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
