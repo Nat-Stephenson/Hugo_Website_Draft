@@ -39,7 +39,7 @@ weight = 20
 [[subnavigation]]
 name = "My Rabbit Hole"
 pre = "github"
-pageRef = "https://github.com/Nat-Stephenson"
+url = "https://github.com/Nat-Stephenson"
 weight = 20
 
 [[main]]
@@ -57,7 +57,7 @@ weight = 20
 # the copyright notice. Configure as per the main menu above.
 
 # [[footer]]
-#   name = "Tags"
+#   name = NHS-R Community
 #   pageRef = "tags"
 #   weight = 10
 
