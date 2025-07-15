@@ -32,10 +32,10 @@ parent = "Resources"
 pageRef = "Library"
 weight = 20
 
-# [[subnavigation]]
-# name = "The Big Moments"
-# pageRef = "tags/interesting-topic"
-# weight = 10
+[[main]]
+name = "Topics"
+pageRef = "Topics"
+weight = 30
 
 [[main]]
 # name = "GitHub"
@@ -46,7 +46,7 @@ weight = 20
 [[main]]
 name = "My Blog"
 pageRef = "Blogs"
-weight = 30
+weight = 40
 
 #[[main]]
 #  name = "Tags"
