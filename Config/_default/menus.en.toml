@@ -36,16 +36,16 @@ weight = 20
 # pageRef = "tags/interesting-topic"
 # weight = 10
 
-[[subnavigation]]
-name = "My Rabbit Hole"
+[[main]]
+name = ""
 pre = "github"
 url = "https://github.com/Nat-Stephenson"
-weight = 20
+weight = 40
 
 [[main]]
 name = "My Blog"
 pageRef = "Blogs"
-weight = 20
+weight = 30
 
 #[[main]]
 #  name = "Tags"
