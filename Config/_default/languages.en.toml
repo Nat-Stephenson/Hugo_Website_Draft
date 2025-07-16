@@ -10,17 +10,17 @@ title = "Nat's Space"
   rtl = false
   dateFormat = "2 January 2006"
   logo = "Logo.Laptop.Website.png"
-  # secondaryLogo = "img/secondary-logo.png"
+  secondaryLogo = "Duck.png"
   description = "My first attmept at Hugo"
   copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
 name = "Nat-Stephenson"
 email = "natasha.stephenson6@nhs.net"
-image = "1.png"
+image = "Crow.png"
 imageQuality = 96
-headline = "I'm only human"
-bio = "But First...Introductions"
+headline = "But First...Introductions"
+# bio = "But First...Introductions"
 links = [
 { email = "mailto:natasha.stephenson6@nhs.net" },
 #     { link = "https://link-to-some-website.com/" },
