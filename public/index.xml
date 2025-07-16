@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>But First... Introductions on Nat&#39;s Rabbit Hole</title>
+    <title>But First... Introductions on Nat&#39;s Space</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in But First... Introductions on Nat&#39;s Rabbit Hole</description>
+    <description>Recent content in But First... Introductions on Nat&#39;s Space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2025 </copyright>
+    <managingEditor>natasha.stephenson6@nhs.net (Nat-Stephenson)</managingEditor>
+    <webMaster>natasha.stephenson6@nhs.net (Nat-Stephenson)</webMaster>
+    <copyright>Copy, _right?_ :thinking_face:</copyright>
     <lastBuildDate>Mon, 14 Jul 2025 21:49:20 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Where to Start...</title>
       <link>http://localhost:1313/blogs/first/</link>
       <pubDate>Tue, 15 Jul 2025 11:36:08 +0100</pubDate>
-      
+      <author>natasha.stephenson6@nhs.net (Nat-Stephenson)</author>
       <guid>http://localhost:1313/blogs/first/</guid>
       <description></description>
       
