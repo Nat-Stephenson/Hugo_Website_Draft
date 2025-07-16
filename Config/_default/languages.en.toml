@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Nat's Rabbit Hole"
+title = "Nat's Space"
 
 [params]
   displayName = "EN"
@@ -11,14 +11,14 @@ title = "Nat's Rabbit Hole"
   dateFormat = "2 January 2006"
   logo = "Logo.Laptop.Website.png"
   # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
-  # copyright = "Copy, _right?_ :thinking_face:"
+  description = "My first attmept at Hugo"
+  copyright = "Copy, _right?_ :thinking_face:"
 
-# [params.author]
+[params.author]
 name = "Nat-Stephenson"
 email = "natasha.stephenson6@nhs.net"
-#   image = "img/blowfish_logo.png"
-#   imageQuality = 96
+image = "1.png"
+imageQuality = 96
 headline = "I'm only human"
 bio = "But First...Introductions"
 links = [
