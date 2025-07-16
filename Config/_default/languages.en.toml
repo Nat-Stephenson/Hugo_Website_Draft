@@ -11,7 +11,7 @@ title = "Nat's Space"
   dateFormat = "2 January 2006"
   logo = "Logo.Laptop.Website.png"
   # secondaryLogo = "Duck.png"
-  description = "My first attmept at Hugo"
+  description = "My first attempt at Hugo"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
