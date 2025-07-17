@@ -22,7 +22,7 @@ disableImageOptimizationMD = false
 disableTextInHeader = false
 # backgroundImageWidth = 1200
 
-defaultBackgroundImage = "Nat.Landscape.Doodle.Png.png" # used as default for background images 
+defaultBackgroundImage = "Nat.Landscape.Doodle.png" # used as default for background images 
 defaultFeaturedImage = "MainBackGround. Website.png" # used as default for featured images in all articles
 defaultSocialImage = "1.png" # used as default for social media sharing (Open Graph and Twitter)
 

@@ -34,34 +34,29 @@ weight = 20
 
 [[main]]
 name = "Blogs"
-weight = "30"
-
-[[main]]
-name = "Topics"
-parent = "Blogs"
 weight = 30
 
 [[main]]
 name = "Data Stories"
-parent = "Topics"
+parent = "Blogs"
 pageRef = "Data Stories"
 weight = 30
 
 [[main]]
 name = "Agile"
-parent = "Topics"
+parent = "Blogs"
 pageRef = "Agile"
 weight = 30
 
 [[main]]
 name = "Doodles"
-parent = "Topics"
+parent = "Blogs"
 pageRef = "Doodles"
 weight = 30
 
 [[main]]
 name = "Project & Product Management"
-parent = "Topics"
+parent = "Blogs"
 pageRef = "Product Management"
 weight = 30
 
