@@ -33,7 +33,12 @@ pageRef = "Library"
 weight = 20
 
 [[main]]
+name = "Blogs"
+weight = "30"
+
+[[main]]
 name = "Topics"
+parent = "Blogs"
 weight = 30
 
 [[main]]
@@ -49,9 +54,10 @@ pageRef = "Agile"
 weight = 30
 
 [[main]]
-name = "My Blog"
-pageRef = "Blogs"
-weight = 40
+name = "Doodles"
+parent = "Topics"
+pageRef = "Doodles"
+weight = 30
 
 [[main]]
 name = "Project & Product Management"
