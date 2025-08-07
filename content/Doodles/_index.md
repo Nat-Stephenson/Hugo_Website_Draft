@@ -1,6 +1,5 @@
-# Doodles Gallery
 
-In my spare time, I get joy from creating illustrations and doddles. I have now started attending workshops to improve my digital drawing skills and to experiment a little with different styles. The tool used is Procreate. 
+In my spare time, I enjoy creating illustrations and doddles. I have now started attending workshops to improve my digital drawing skills and to experiment a little with different styles. The tool used is Procreate. 
 
 Here are some of my illustrations:
 
