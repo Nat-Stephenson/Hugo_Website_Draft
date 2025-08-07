@@ -4,8 +4,10 @@
     <title>Nat&#39;s Space</title>
     <link>http://localhost:1313/doodles/</link>
     <description>Recent content on Nat&#39;s Space</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <copyright>© 2025 </copyright>
     <atom:link href="http://localhost:1313/doodles/index.xml" rel="self" type="application/rss+xml" />
+    
   </channel>
 </rss>
