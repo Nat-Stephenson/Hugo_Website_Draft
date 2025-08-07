@@ -4,10 +4,10 @@ draft = false
 title = 'But First... Introductions'
 +++
 
-### Hello, and welcome to my little corner of madness and experimentation.
+# Welcome! 
 
-**My name is Nat, curiousity absolutely has gotten the better of me, so here I am building my own little space in Hugo**
+**This is my digital sketchbook and journal, a place where I'll be documenting my creative journey, experiments, learning experiences, and personal projects. This space will focus around product & project management and methodologies, as well as my personal interests in doodling and digital art.**
 
-**This will mean that I will not know what I am actually achieving alot of the time, I will get it wrong most of the time, but I know that this will be something that will bring me happiness in the long term. I am also 100% certain that I will be increasing my consumption of chocolate over the next couple of months as I explore and experience the AHHHH!, Ohhhhhhh, and YAY! moments of learning a new skill.**
+**As I dive into the worlds of agile frameworks, user engagement and creative design, I'll be sharing my learning journey right here.**
 
-**I don't think that my little adventure will be interesting reading for all, and that is okay! Buuttt if you feel like following me down this rabbit hole, I will always be grateful of the company.**
+**Join me as I stumble my way through the intricacies of product management, explore the nuances of user engagement, and unleash my creativity through doodling and digital art- expect a lot of AHHHHH!, Ohhhhhhh, and YAY! moments along the way.**
