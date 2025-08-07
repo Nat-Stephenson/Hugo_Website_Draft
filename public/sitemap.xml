@@ -21,6 +21,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/agile/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/doodles/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
