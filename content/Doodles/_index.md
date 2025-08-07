@@ -1,6 +1,8 @@
 # Doodles Gallery
 
-In my spare time, I enjoy creating illustrations and doodles. Here are some of my PNG illustrations:
+In my spare time, I get joy from creating illustrations and doddles. I have now started attending workshops to improve my digital drawing skills and to experiment a little with different styles. The tool used is Procreate. 
+
+Here are some of my illustrations:
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px;">
   <img src="/images/illustrations/HobbitDoor.png" alt="Doodle 1" width="200"/>
