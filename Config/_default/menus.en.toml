@@ -51,7 +51,7 @@ weight = 30
 [[main]]
 name = "Doodles"
 parent = "Blogs"
-pageRef = "/static/images/illustrations"
+pageRef = "doodles"
 weight = 30
 
 [[main]]
